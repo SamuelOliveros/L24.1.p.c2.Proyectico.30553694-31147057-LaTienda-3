@@ -1,0 +1,16 @@
+table{
+    /*width:100%;*/
+}
+td,
+th,
+table{
+    border: 1px solid black;
+    text-align: center;
+}
+input{
+display: block;
+}
+section{
+    border:1px solid black;
+margin-top: 10px
+}
